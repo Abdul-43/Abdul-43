@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
 <h3 align="center">A full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-z&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-z" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-43&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-43" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-z" alt="abdul-z" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-43" alt="abdul-43" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack development**
 
