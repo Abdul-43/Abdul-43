@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-z" alt="abdul-z" /></a> </p>
 
-- 🌱 I’m currently learning **MERJ Stack development**
+- 🌱 I’m currently learning **MERN Stack development**
 
 - 📫 How to reach me **abdulpnoit.ar@gmail.com**
 
